@@ -3,7 +3,7 @@ Data analysis and visualization of the earthquakes that occurred from 1965 to 20
 
 ## Description
 
-The project we have carried out deals with visualand predictive analysis in relation to thedataset relating to the earthquakes that occurredbetween 1965 and 2016 focusing onanalyzing the intensity of earthquakes, the depthand the place where they occurred todefine a history and a trace of where they occurred. In this repository you can find the pdf report, the notebook and the csv file.
+The project we have carried out deals with visualand predictive analysis in relation to thedataset relating to the earthquakes that occurred between 1965 and 2016 focusing onanalyzing the intensity of earthquakes, the depthand the place where they occurred todefine a history and a trace of where they occurred. In this repository you can find the pdf report, the notebook and the csv file.
 
 ## Breakdown of the work
 Collaboration between:
