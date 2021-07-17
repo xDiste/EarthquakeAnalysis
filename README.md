@@ -1,4 +1,4 @@
-# EarthquakeAnalysis
+# Earthquake Analysis
 Data analysis and visualization of the earthquakes that occurred from 1965 to 2016.
 
 ## Description
